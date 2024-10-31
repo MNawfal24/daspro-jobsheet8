@@ -13,6 +13,7 @@ public class Triangel19 {
                 j++;
             }
             System.out.println();
+
             i++;
         }
     }
